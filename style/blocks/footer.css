@@ -1,0 +1,29 @@
+.footer{
+    margin-bottom: 67px;
+  
+}
+.footer__container{
+    width: 1150px;
+    min-height: 146px;
+    position: absolute;
+}
+
+.socials{
+    position: relative;
+    width: auto;
+    height: 36px;
+    display: inline-block;  
+    
+}
+
+.socials__icon{
+    display: inline-block;
+    
+    
+}
+.socials__link:last-child{
+   margin-right: 0px; 
+   margin-bottom: 150px;
+   margin-top: 106px;
+
+}
