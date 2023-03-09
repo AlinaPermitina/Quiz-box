@@ -13,7 +13,7 @@
     height: 100px;
 }
 .wrapper__content--main{
-	background: url(/img/people1.png) center top no-repeat, url(/img/pictureblack.png) center center no-repeat, url(/img/people2.png) bottom no-repeat;
+	background: url(/img/people1.png) center top no-repeat;
 }
 
 .main-page-wrapper{
