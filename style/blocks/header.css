@@ -13,7 +13,7 @@
     height: 100px;
 }
 .img{
-	background: url(img/people1.png) center top no-repeat;
+	background: url(./img/people1.png) center top no-repeat;
 }
 
 .main-page-wrapper{
