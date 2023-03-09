@@ -12,7 +12,13 @@
     position: relative;
     height: 100px;
 }
+.wrapper__content--main{
+	background: url(/img/people1.png) center top no-repeat, url(/img/pictureblack.png) center center no-repeat, url(/img/people2.png) bottom no-repeat;
+}
 
+.main-page-wrapper{
+    background:  #17191C;
+}
 
 .logo, .menu, .menu__item, .contacts{
     display: inline-block;
@@ -57,7 +63,4 @@ text-decoration: none;
     text-align: end;
 }
 
-.wrapper__content--main{
-	background: url(/img/people1.png) center top no-repeat, url(/img/pictureblack.png) center center no-repeat, url(/img/people2.png) bottom no-repeat;
-}
 
