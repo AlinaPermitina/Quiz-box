@@ -1,0 +1,32 @@
+
+.footer{
+    height: 150px;
+    position: relative;
+    margin-bottom: 67px;
+}
+
+.socials{
+    position: relative;
+    display: inline-flex;
+    margin-left: 68px;
+
+}
+.socials__link{
+    
+    margin-right: 3px;
+    margin-bottom: -12px;
+    
+}
+.socials__item{
+    margin-right: 0;
+}
+
+.contacts__call{
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+}
+
+.footer__container{
+    border-top: 1px solid  #FFFFFF;
+}
