@@ -1,0 +1,118 @@
+.offers{
+    margin-bottom: 127px;
+}
+.title{
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 51px;  
+    margin-top: 193px;
+    margin-right: 101px;
+}
+
+.title--icon:after{
+    content: "";
+    width: 42px;
+    height: 41.42px;
+    display: inline-flex;
+    left: 9px;
+    top: 10px;
+    position: relative;
+    background:url(/img/Vector.png)
+}
+
+.offers__item{
+    min-height: 305px;
+    background:white;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 10px;
+    width: 370px;
+}
+.offers__item:last-child{
+    margin-right: 0;
+}
+
+
+.offers__feature{
+    display: inline-block;
+    width:auto;
+    font-size: 16px;
+    vertical-align: top;
+    line-height: 22px;
+    align-items: center;
+}
+
+
+.offers__feature-text{
+    display: inline-block;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #666666;
+    margin-top: 22px;
+    margin-right: 34px;
+}
+
+.offers__feature-icon{
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 10px;
+
+}
+
+
+.offers__img{
+    height: 144px;
+    margin-bottom: 33px;
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+    object-fit: cover;
+}
+
+.offers__content{
+    width: 362px;
+    padding: 33px 22px;
+    color: black;
+}
+.offers__title{
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 23px;
+
+}
+
+.offers__feature:last-child{
+    margin-right: 0;
+}
+
+.offers__feature-text{
+    font-size: 14px;
+    padding-bottom: 26.5px;
+}
+
+.button{
+    display: block;
+    background: #8F00FF;
+    border-radius: 5px;
+    padding: 18px 0;
+    text-align: center;
+    width: 168px;
+    color: white;
+    border: 2px solid #8F00FF;
+    margin-top: 24.5px;
+
+}
+
+.button__button--light{
+    font-weight: 700;
+    background: white;
+    border-radius: 5px;
+	padding: 18px 0;
+	text-align: center;
+	width: 168px;
+    border: 2px solid #8F00FF;
+    color: #8F00FF;
+    text-transform: uppercase;
+    margin-top: 24.5px;
+}
